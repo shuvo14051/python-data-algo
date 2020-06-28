@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8757dcd1-671a-4610-998a-da03dd15a092" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem solving/Hacker Rank/p11-Nested Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem solving/Hacker Rank/p11-Nested Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Udemy best seller course/Array/Array pari sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy best seller course/Array/Array pari sum.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,29 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Dynamic Array Exercise.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Udemy best seller course/Array/Dynamic Array Exercise.py">
+      <file leaf-file-name="p11-Nested Lists.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p11-Nested Lists.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+            <state relative-caret-position="200">
+              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Aranagram Problem.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Udemy best seller course/Array/Aranagram Problem.py">
+      <file leaf-file-name="p-12 Capitalize.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p-12 Capitalize.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="38" column="15" lean-forward="true" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Array pari sum.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Udemy best seller course/Array/Array pari sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+            <state relative-caret-position="100">
+              <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -86,7 +78,6 @@
         <option value="$PROJECT_DIR$/Udemy best seller course/BigO/SpcaeComplexity.py" />
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p09-List Comprehensions.py" />
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p10-Find the Runner-Up Score!.py" />
-        <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p11-Nested Lists.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1036.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1021.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1074.py" />
@@ -101,10 +92,12 @@
         <option value="$PROJECT_DIR$/Udemy best seller course/Array/Dynamic Array Exercise.py" />
         <option value="$PROJECT_DIR$/Udemy best seller course/Array/Aranagram Problem.py" />
         <option value="$PROJECT_DIR$/Udemy best seller course/Array/Array pari sum.py" />
+        <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p11-Nested Lists.py" />
+        <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p-12 Capitalize.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-48" />
     <option name="y" value="53" />
     <option name="width" value="1346" />
@@ -129,13 +122,13 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Udemy best seller course" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem solving" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Udemy best seller course" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem solving" type="462c0819:PsiDirectoryNode" />
+              <item name="Hacker Rank" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -158,7 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Array pari sum">
+  <component name="RunManager" selected="Python.p-12 Capitalize">
     <configuration name="Aranagram Problem" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -213,7 +206,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Dynamic array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p-12 Capitalize" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,17 +214,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy best seller course/Array" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/Hacker Rank" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy best seller course/Array/Dynamic array.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/Hacker Rank/p-12 Capitalize.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="URI-1065" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p11-Nested Lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,30 +232,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/URI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/Hacker Rank" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1065.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/Hacker Rank/p11-Nested Lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.URI-1065" />
-      <item itemvalue="Python.Dynamic array" />
       <item itemvalue="Python.Dynamic Array Exercise" />
       <item itemvalue="Python.Aranagram Problem" />
       <item itemvalue="Python.Array pari sum" />
+      <item itemvalue="Python.p11-Nested Lists" />
+      <item itemvalue="Python.p-12 Capitalize" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.p-12 Capitalize" />
+        <item itemvalue="Python.p11-Nested Lists" />
         <item itemvalue="Python.Array pari sum" />
         <item itemvalue="Python.Aranagram Problem" />
         <item itemvalue="Python.Dynamic Array Exercise" />
-        <item itemvalue="Python.Dynamic array" />
-        <item itemvalue="Python.URI-1065" />
       </list>
     </recent_temporary>
   </component>
@@ -309,20 +302,13 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/Problem solving/URI/URI-1013.py</url>
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1020.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1035.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -561,13 +547,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p11-Nested Lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1036.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -668,8 +647,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Udemy best seller course/Array/Array pari sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        <state relative-caret-position="400">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p11-Nested Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p-12 Capitalize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
