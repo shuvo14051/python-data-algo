@@ -3,7 +3,31 @@
   <component name="ChangeListManager">
     <list default="true" id="8757dcd1-671a-4610-998a-da03dd15a092" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem solving/Hacker Rank/p15-Finding the percentage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem solving/Hacker Rank/p15-Finding the percentage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/Pipfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/Pipfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/blog/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/blog/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/blog/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/blog/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/blog/migrations/0002_post_slug.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/blog/migrations/0003_remove_post_slug.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/blog/migrations/0004_post_slug.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/blog/migrations/0005_auto_20200704_1127.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/blog/migrations/0006_remove_post_slug.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/blog/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/blog/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/blog/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/blog/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/blog/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/proj/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/proj/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/proj/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/proj/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/templates/blog/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entre/templates/blog/home.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,26 +37,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="p16 - String Split and Join.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p16 - String Split and Join.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="8" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p17-Whats Your Name.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p17-Whats Your Name.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,9 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1014.py" />
-        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1015.py" />
-        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1016.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1017.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1018.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1019.py" />
@@ -98,6 +100,9 @@
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p15-Finding the percentage.py" />
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p16 - String Split and Join.py" />
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p17-Whats Your Name.py" />
+        <option value="$PROJECT_DIR$/Coursera Data Structure and Algo/Googler.py" />
+        <option value="$PROJECT_DIR$/Googler/even number.py" />
+        <option value="$PROJECT_DIR$/Googler/prime.py" />
       </list>
     </option>
   </component>
@@ -125,13 +130,7 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Problem solving" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Problem solving" type="462c0819:PsiDirectoryNode" />
-              <item name="Hacker Rank" type="462c0819:PsiDirectoryNode" />
+              <item name="Googler" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -155,8 +154,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.p17-Whats Your Name">
-    <configuration name="p11-Nested Lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.prime">
+    <configuration name="even number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,29 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/Hacker Rank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Googler" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/Hacker Rank/p11-Nested Lists.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="p13-Tuples" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/Hacker Rank" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/Hacker Rank/p13-Tuples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Googler/even number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,20 +227,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="prime" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Googler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Googler/prime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.p11-Nested Lists" />
-      <item itemvalue="Python.p13-Tuples" />
       <item itemvalue="Python.p14- sWAP cASE" />
       <item itemvalue="Python.p16 - String Split and Join" />
       <item itemvalue="Python.p17-Whats Your Name" />
+      <item itemvalue="Python.even number" />
+      <item itemvalue="Python.prime" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.prime" />
+        <item itemvalue="Python.even number" />
         <item itemvalue="Python.p17-Whats Your Name" />
         <item itemvalue="Python.p16 - String Split and Join" />
         <item itemvalue="Python.p14- sWAP cASE" />
-        <item itemvalue="Python.p13-Tuples" />
-        <item itemvalue="Python.p11-Nested Lists" />
       </list>
     </recent_temporary>
   </component>
@@ -278,9 +277,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20863836" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19838946" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
@@ -308,39 +306,16 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Problem solving/URI/URI-1013.py</url>
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Googler/prime.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1017.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" lean-forward="true" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1019.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1020.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1037.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1035.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -650,6 +625,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p17-Whats Your Name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p16 - String Split and Join.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -657,10 +639,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p17-Whats Your Name.py">
+    <entry file="file://$PROJECT_DIR$/Coursera Data Structure and Algo/Googler.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Googler/even number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        <state relative-caret-position="275">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Googler/prime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
         </state>
       </provider>
     </entry>
