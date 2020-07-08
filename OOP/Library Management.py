@@ -4,7 +4,7 @@ class Library:
         self.availableBooks = listOfBooks
 
     def displayAvailableBooks(self):
-        print("Available book:")
+        print("Available books:")
         for book in self.availableBooks:
             print(book)
 
@@ -17,7 +17,7 @@ class Library:
 
     def addBook(self, returnedBook):
         self.availableBooks.append(returnedBook)
-        print("You have returned the book. Thank you!!")
+        print("You have returned the boo k. Thank you!!")
 
 
 class Customer:
