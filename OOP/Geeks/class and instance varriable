@@ -1,0 +1,22 @@
+class MyClass:
+
+    website = "www.google.com"
+
+    def __init__(self, name):
+        self.name = name
+
+m = MyClass("shuvo")
+
+# Class variables can be accessed using instance of a class
+print(m.website)
+
+# Class variables can be accessed using class name also
+print(MyClass.website)
+
+# Instance variables can only be accessed using instance of a class
+print(m.name)
+
+# Class variables can't be accessed using class
+# This line will through an error
+# "AttributeError: type object 'MyClass' has no attribute 'name'"
+print(MyClass.name)
