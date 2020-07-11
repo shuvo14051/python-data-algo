@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8757dcd1-671a-4610-998a-da03dd15a092" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem solving/Hacker Rank/p15-Finding the percentage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem solving/Hacker Rank/p15-Finding the percentage.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,57 +13,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="self.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OOP/Geeks/self.py">
+    <leaf>
+      <file leaf-file-name="p18-Mutations.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p18-Mutations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+            <state relative-caret-position="141">
+              <caret line="23" column="20" selection-end-line="27" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="class and instance varriable" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OOP/Geeks/class and instance varriable">
+      <file leaf-file-name="p19-Lists.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p19-Lists.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+            <state relative-caret-position="175">
+              <caret line="7" column="26" lean-forward="true" selection-end-line="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hidden or private data.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OOP/Geeks/hidden or private data.py">
+      <file leaf-file-name="p15-Finding the percentage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p15-Finding the percentage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="str and repr.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OOP/Geeks/str and repr.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="iterator.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OOP/Geeks/iterator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="generator.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OOP/Geeks/generator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="300">
+              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -82,8 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1066.py" />
-        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1065.py" />
         <option value="$PROJECT_DIR$/Udemy best seller course/Array/Dynamic array.py" />
         <option value="$PROJECT_DIR$/Udemy best seller course/Array/Dynamic Array Exercise.py" />
         <option value="$PROJECT_DIR$/Udemy best seller course/Array/Aranagram Problem.py" />
@@ -95,7 +67,6 @@
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p11-Nested Lists.py" />
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p13-Tuples.py" />
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p14- sWAP cASE.py" />
-        <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p15-Finding the percentage.py" />
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p16 - String Split and Join.py" />
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p17-Whats Your Name.py" />
         <option value="$PROJECT_DIR$/Coursera Data Structure and Algo/Googler.py" />
@@ -133,6 +104,9 @@
         <option value="$PROJECT_DIR$/OOP/Geeks/class and instance varriable" />
         <option value="$PROJECT_DIR$/OOP/Geeks/hidden or private data.py" />
         <option value="$PROJECT_DIR$/OOP/Geeks/str and repr.py" />
+        <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p19-Lists.py" />
+        <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p15-Finding the percentage.py" />
+        <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p18-Mutations.py" />
       </list>
     </option>
   </component>
@@ -160,13 +134,18 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem solving" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="OOP" type="462c0819:PsiDirectoryNode" />
-              <item name="Geeks" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem solving" type="462c0819:PsiDirectoryNode" />
+              <item name="Hacker Rank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Udemy best seller course" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -190,43 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.str and repr">
-    <configuration name="class and instance varriable" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Geeks" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Geeks/class and instance varriable" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Geeks" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Geeks/generator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.p18-Mutations">
     <configuration name="hidden or private data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,7 +188,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="iterator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p15-Finding the percentage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,11 +196,47 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Geeks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/Hacker Rank" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Geeks/iterator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/Hacker Rank/p15-Finding the percentage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="p18-Mutations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/Hacker Rank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/Hacker Rank/p18-Mutations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="p19-Lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/Hacker Rank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/Hacker Rank/p19-Lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,19 +261,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.iterator" />
-      <item itemvalue="Python.generator" />
-      <item itemvalue="Python.class and instance varriable" />
       <item itemvalue="Python.hidden or private data" />
       <item itemvalue="Python.str and repr" />
+      <item itemvalue="Python.p18-Mutations" />
+      <item itemvalue="Python.p19-Lists" />
+      <item itemvalue="Python.p15-Finding the percentage" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.p18-Mutations" />
+        <item itemvalue="Python.p15-Finding the percentage" />
+        <item itemvalue="Python.p19-Lists" />
         <item itemvalue="Python.str and repr" />
         <item itemvalue="Python.hidden or private data" />
-        <item itemvalue="Python.class and instance varriable" />
-        <item itemvalue="Python.generator" />
-        <item itemvalue="Python.iterator" />
       </list>
     </recent_temporary>
   </component>
@@ -358,20 +337,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1059.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="15" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1060.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="28" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1064.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -418,13 +383,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
           <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p15-Finding the percentage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -663,13 +621,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OOP/Geeks/self.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/OOP/Geeks/class and instance varriable">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
@@ -688,6 +639,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/Geeks/self.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p19-Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="26" lean-forward="true" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p15-Finding the percentage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p18-Mutations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="23" column="20" selection-end-line="27" selection-end-column="16" />
         </state>
       </provider>
     </entry>
