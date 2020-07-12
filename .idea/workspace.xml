@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8757dcd1-671a-4610-998a-da03dd15a092" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem solving/Hacker Rank/p15-Finding the percentage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem solving/Hacker Rank/p15-Finding the percentage.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,30 +12,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="p18-Mutations.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p18-Mutations.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="URI-1040.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1040.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="23" column="20" selection-end-line="27" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p19-Lists.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p19-Lists.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="26" lean-forward="true" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p15-Finding the percentage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p15-Finding the percentage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+            <state relative-caret-position="133">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -56,11 +37,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Udemy best seller course/Array/Dynamic array.py" />
-        <option value="$PROJECT_DIR$/Udemy best seller course/Array/Dynamic Array Exercise.py" />
-        <option value="$PROJECT_DIR$/Udemy best seller course/Array/Aranagram Problem.py" />
-        <option value="$PROJECT_DIR$/Udemy best seller course/Array/Array pari sum.py" />
-        <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p-12 Capitalize.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1061.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1052.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1051.py" />
@@ -107,6 +83,11 @@
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p19-Lists.py" />
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p15-Finding the percentage.py" />
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p18-Mutations.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1044.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1042.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1043.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1041.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1040.py" />
       </list>
     </option>
   </component>
@@ -124,6 +105,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,7 +122,7 @@
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="Problem solving" type="462c0819:PsiDirectoryNode" />
-              <item name="Hacker Rank" type="462c0819:PsiDirectoryNode" />
+              <item name="URI" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
@@ -151,7 +133,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,8 +150,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.p18-Mutations">
-    <configuration name="hidden or private data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.URI-1040">
+    <configuration name="URI-1040" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,17 +159,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Geeks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/URI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Geeks/hidden or private data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1040.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="p15-Finding the percentage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="URI-1041" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,17 +177,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/Hacker Rank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/URI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/Hacker Rank/p15-Finding the percentage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1041.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="p18-Mutations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="URI-1042" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,17 +195,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/Hacker Rank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/URI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/Hacker Rank/p18-Mutations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1042.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="p19-Lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="URI-1043" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,17 +213,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/Hacker Rank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/URI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/Hacker Rank/p19-Lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1043.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="str and repr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="URI-1044" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,30 +231,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Geeks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/URI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Geeks/str and repr.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1044.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.hidden or private data" />
-      <item itemvalue="Python.str and repr" />
-      <item itemvalue="Python.p18-Mutations" />
-      <item itemvalue="Python.p19-Lists" />
-      <item itemvalue="Python.p15-Finding the percentage" />
+      <item itemvalue="Python.URI-1040" />
+      <item itemvalue="Python.URI-1041" />
+      <item itemvalue="Python.URI-1042" />
+      <item itemvalue="Python.URI-1043" />
+      <item itemvalue="Python.URI-1044" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.p18-Mutations" />
-        <item itemvalue="Python.p15-Finding the percentage" />
-        <item itemvalue="Python.p19-Lists" />
-        <item itemvalue="Python.str and repr" />
-        <item itemvalue="Python.hidden or private data" />
+        <item itemvalue="Python.URI-1040" />
+        <item itemvalue="Python.URI-1042" />
+        <item itemvalue="Python.URI-1041" />
+        <item itemvalue="Python.URI-1044" />
+        <item itemvalue="Python.URI-1043" />
       </list>
     </recent_temporary>
   </component>
@@ -337,34 +318,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1064.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1061.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1052.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1051.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p11-Nested Lists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
@@ -651,22 +604,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p19-Lists.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="26" lean-forward="true" selection-end-line="31" />
+        <state relative-caret-position="275">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p15-Finding the percentage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        <state relative-caret-position="81">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p18-Mutations.py">
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1044.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="23" column="20" selection-end-line="27" selection-end-column="16" />
+        <state>
+          <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1043.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="36" lean-forward="true" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1042.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" lean-forward="true" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1041.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1040.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
