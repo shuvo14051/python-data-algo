@@ -22,7 +22,7 @@ class USA():
 
 obj_bd = Bangladesh()
 obj_usa = USA()
-for country in (obj_ind, obj_usa):
+for country in (obj_bd, obj_usa):
     country.capital()
     country.language()
     country.type()
