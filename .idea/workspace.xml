@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8757dcd1-671a-4610-998a-da03dd15a092" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/OOP/Geeks/polymorphism.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Geeks/polymorphism.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem solving/Hacker Rank/p22-Find a string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem solving/Hacker Rank/p22-Find a string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem solving/Hacker Rank/p12-Capitalize.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem solving/Hacker Rank/p12-Capitalize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem solving/Hacker Rank/p19-Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem solving/Hacker Rank/p19-Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem solving/Hacker Rank/p21-String Validators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem solving/Hacker Rank/p21-String Validators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem solving/Hacker Rank/p23-String Formatting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem solving/Hacker Rank/p23-String Formatting.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +17,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="p23-String Formatting.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="p23-String Formatting.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p23-String Formatting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="216">
+              <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+              <folding>
+                <element signature="e#707#746#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p19-Lists.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p19-Lists.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="28" column="17" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -38,16 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Googler/prime.py" />
-        <option value="$PROJECT_DIR$/Udemy best seller course/Stack Queue Deque/stack.py" />
-        <option value="$PROJECT_DIR$/Pyramid/pyramid-5.py" />
-        <option value="$PROJECT_DIR$/Pyramid/pyramid-6.py" />
-        <option value="$PROJECT_DIR$/Pyramid/pyramid-4.py" />
-        <option value="$PROJECT_DIR$/Pyramid/pyramid-04.py" />
-        <option value="$PROJECT_DIR$/Pyramid/pyramid-05.py" />
-        <option value="$PROJECT_DIR$/Pyramid/pyramid-07.py" />
-        <option value="$PROJECT_DIR$/Pyramid/pyramid-06.py" />
-        <option value="$PROJECT_DIR$/Pyramid/pyramid-09.py" />
         <option value="$PROJECT_DIR$/Pyramid/pyramid-10.py" />
         <option value="$PROJECT_DIR$/Pyramid/pyramid-11.py" />
         <option value="$PROJECT_DIR$/Pyramid/pyramid-12.py" />
@@ -71,7 +76,6 @@
         <option value="$PROJECT_DIR$/OOP/Geeks/class and instance varriable" />
         <option value="$PROJECT_DIR$/OOP/Geeks/hidden or private data.py" />
         <option value="$PROJECT_DIR$/OOP/Geeks/str and repr.py" />
-        <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p19-Lists.py" />
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p15-Finding the percentage.py" />
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p18-Mutations.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1044.py" />
@@ -79,7 +83,6 @@
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1043.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1041.py" />
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p20-Text Wrap.py" />
-        <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p21-String Validators.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1045.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1040.py" />
         <option value="$PROJECT_DIR$/OOP/Geeks/multiple inheritance.py" />
@@ -88,7 +91,19 @@
         <option value="$PROJECT_DIR$/OOP/Geeks/base or super.py" />
         <option value="$PROJECT_DIR$/OOP/Geeks/polymorphism.py" />
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p22-Find a string.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1048.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1049.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1050.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1075.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1078.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1079.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI 1080.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1080.py" />
+        <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p24-Merge the Tools.py" />
+        <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p12-Capitalize.py" />
+        <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p21-String Validators.py" />
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p23-String Formatting.py" />
+        <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p19-Lists.py" />
       </list>
     </option>
   </component>
@@ -106,6 +121,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,16 +140,10 @@
               <item name="Problem solving" type="462c0819:PsiDirectoryNode" />
               <item name="Hacker Rank" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -156,44 +166,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.p23-String Formatting">
-    <configuration name="base or super" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Geeks" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Geeks/base or super.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="multiplication table" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy/multiplication table.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="p22-Find a string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.p19-Lists">
+    <configuration name="p12-Capitalize" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,7 +179,43 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/Hacker Rank/p22-Find a string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/Hacker Rank/p12-Capitalize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="p19-Lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/Hacker Rank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/Hacker Rank/p19-Lists.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="p21-String Validators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/Hacker Rank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/Hacker Rank/p21-String Validators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,7 +239,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="polymorphism" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p24-Merge the Tools" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,30 +247,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Geeks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/Hacker Rank" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Geeks/polymorphism.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/Hacker Rank/p24-Merge the Tools.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.base or super" />
-      <item itemvalue="Python.polymorphism" />
-      <item itemvalue="Python.p22-Find a string" />
+      <item itemvalue="Python.p24-Merge the Tools" />
+      <item itemvalue="Python.p12-Capitalize" />
+      <item itemvalue="Python.p21-String Validators" />
       <item itemvalue="Python.p23-String Formatting" />
-      <item itemvalue="Python.multiplication table" />
+      <item itemvalue="Python.p19-Lists" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.p19-Lists" />
         <item itemvalue="Python.p23-String Formatting" />
-        <item itemvalue="Python.multiplication table" />
-        <item itemvalue="Python.p22-Find a string" />
-        <item itemvalue="Python.polymorphism" />
-        <item itemvalue="Python.base or super" />
+        <item itemvalue="Python.p21-String Validators" />
+        <item itemvalue="Python.p12-Capitalize" />
+        <item itemvalue="Python.p24-Merge the Tools" />
       </list>
     </recent_temporary>
   </component>
@@ -279,14 +289,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18887262" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30206677" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30206677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -307,7 +316,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/Problem solving/URI/URI-1013.py</url>
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Googler/prime.py</url>
@@ -319,77 +328,15 @@
           <line>8</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem solving/URI/URI-1048.py</url>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="11" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Pyramid/pyramid-4.py" />
-    <entry file="file://$PROJECT_DIR$/Udemy best seller course/Stack Queue Deque/stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pyramid/pyramid-5.py" />
-    <entry file="file://$PROJECT_DIR$/Pyramid/pyramid-6.py" />
-    <entry file="file://$PROJECT_DIR$/Pyramid/pyramid-12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pyramid/pyramid-13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pyramid/pyramid-10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pyramid/pyramid-08.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pyramid/pyramid-04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="18" lean-forward="true" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pyramid/pyramid-05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pyramid/pyramid-06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pyramid/pyramid-07.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" lean-forward="true" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Pyramid/pyramid-09.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -516,13 +463,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p19-Lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p15-Finding the percentage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -555,20 +495,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p20-Text Wrap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p21-String Validators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -642,13 +568,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p22-Find a string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="31" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Udemy/multiplication table.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -656,10 +575,121 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="821" selection-start-line="821" selection-end-line="821" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1048.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="30" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1049.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="1" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1050.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1075.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1078.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1079.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1080.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p22-Find a string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p20-Text Wrap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p12-Capitalize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p24-Merge the Tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p21-String Validators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p23-String Formatting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="216">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding>
+            <element signature="e#707#746#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/Day 0 Hello World.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/Arrays Left Rotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="19" selection-start-line="1" selection-end-line="1" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p19-Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="17" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="35" />
         </state>
       </provider>
     </entry>

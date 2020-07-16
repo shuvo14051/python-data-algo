@@ -1,43 +1,36 @@
 if __name__ == '__main__':
     s = input()
+    isalnum = False
+    isalpha = False
+    isdigit = False
+    islower = False
+    isupper = False
 
     for i in s:
         if i.isalnum():
-            print("True")
-            break
-        else:
-            print("False")
-            break
+            isalnum = True
+
+    print(isalnum)
 
     for i in s:
         if i.isalpha():
-            print("True")
-            break
-        else:
-            print("False")
-            break
+            isalpha = True
+
+    print(isalpha)
 
     for i in s:
         if i.isdigit():
-            print("True")
-            break
-        else:
-            print("False")
-            break
+            isdigit = True
 
-    for i in s:
-        if i.isupper():
-            print("True")
-            break
-        else:
-            print("False")
-            break
+    print(isdigit)
 
     for i in s:
         if i.islower():
-            print("True")
-            break
-        else:
-            print("False")
-            break
+            islower = True
 
+    print(islower)
+    for i in s:
+        if i.isupper():
+            isupper = True
+
+    print(isupper)

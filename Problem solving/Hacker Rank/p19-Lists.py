@@ -2,16 +2,17 @@ n = int(input())
 li = []
 for i in range(n):
 
-    option = input()
+    ar = list((input().split()))
+    option = ar[0]
 
     if option == "insert":
-        position, item = input().split()
+        position, item = ar[1], ar[2]
         position = int(position)
         item = int(item)
         li.insert(position, item)
 
     elif option == "append":
-        item = int(input())
+        item = int(ar[1])
         li.append(item)
 
     elif option == "pop":
@@ -21,7 +22,7 @@ for i in range(n):
         print(li)
 
     elif option == "remove":
-        item = int(input())
+        item = int(ar[1])
         li.remove(item)
 
     elif option == "sort":
