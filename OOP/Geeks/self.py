@@ -11,7 +11,7 @@ class SelfParameter:
         print("Hello World")
 
 
-s = SelfParameter
+s = SelfParameter()
 # this is the way python call the method
 # the instance of a call is passed as a parameter
 # that's why we need to use self
@@ -22,5 +22,7 @@ s = SelfParameter
 # it is passed automatically
 
 s.hello()
+
+# SelfParameter.hello(s)
 
 # the above line is equivalent to "SelfParameter.hello(s)"
