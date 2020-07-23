@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8757dcd1-671a-4610-998a-da03dd15a092" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem solving/URI/URI-1145.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem solving/URI/URI-1145.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,29 +13,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="p25-collections.Counter().py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p25-collections.Counter().py">
+      <file leaf-file-name="URI-1142.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1142.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            <state relative-caret-position="125">
+              <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p26-itertools.product().py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p26-itertools.product().py">
+      <file leaf-file-name="URI-1143.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1143.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            <state relative-caret-position="75">
+              <caret line="3" column="23" lean-forward="true" selection-end-line="3" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p27-itertools.permutations().py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p27-itertools.permutations().py">
+      <file leaf-file-name="URI-1145.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1145.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            <state relative-caret-position="175">
+              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="12" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -55,9 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1040.py" />
-        <option value="$PROJECT_DIR$/OOP/Geeks/multiple inheritance.py" />
-        <option value="$PROJECT_DIR$/OOP/Geeks/super.py" />
         <option value="$PROJECT_DIR$/My Thought/function aurmument.py" />
         <option value="$PROJECT_DIR$/OOP/Geeks/base or super.py" />
         <option value="$PROJECT_DIR$/OOP/Geeks/polymorphism.py" />
@@ -99,13 +96,16 @@
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1115.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1116.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1117.py" />
-        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1145.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1143.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1132.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1133.py" />
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p25-collections.Counter().py" />
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p26-itertools.product().py" />
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p27-itertools.permutations().py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1144.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1134.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1145.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1142.py" />
       </list>
     </option>
   </component>
@@ -140,7 +140,7 @@
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="Problem solving" type="462c0819:PsiDirectoryNode" />
-              <item name="Hacker Rank" type="462c0819:PsiDirectoryNode" />
+              <item name="URI" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -168,8 +168,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.p27-itertools.permutations()">
-    <configuration name="URI-1133" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.URI-1142">
+    <configuration name="URI-1134" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,13 +181,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1133.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1134.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="p12-Capitalize" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="URI-1142" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,17 +195,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/Hacker Rank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/URI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/Hacker Rank/p12-Capitalize.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1142.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="p25-collections.Counter()" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="URI-1144" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,17 +213,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/Hacker Rank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/URI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/Hacker Rank/p25-collections.Counter().py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1144.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="p26-itertools.product()" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="URI-1145" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,11 +231,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/Hacker Rank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/URI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/Hacker Rank/p26-itertools.product().py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1145.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,19 +260,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.URI-1133" />
-      <item itemvalue="Python.p12-Capitalize" />
-      <item itemvalue="Python.p25-collections.Counter()" />
-      <item itemvalue="Python.p26-itertools.product()" />
       <item itemvalue="Python.p27-itertools.permutations()" />
+      <item itemvalue="Python.URI-1144" />
+      <item itemvalue="Python.URI-1145" />
+      <item itemvalue="Python.URI-1134" />
+      <item itemvalue="Python.URI-1142" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.URI-1142" />
+        <item itemvalue="Python.URI-1145" />
+        <item itemvalue="Python.URI-1134" />
+        <item itemvalue="Python.URI-1144" />
         <item itemvalue="Python.p27-itertools.permutations()" />
-        <item itemvalue="Python.p26-itertools.product()" />
-        <item itemvalue="Python.p25-collections.Counter()" />
-        <item itemvalue="Python.p12-Capitalize" />
-        <item itemvalue="Python.URI-1133" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +291,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21229868" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -371,27 +370,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="821" selection-start-line="821" selection-end-line="821" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1048.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="30" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1075.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1078.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -672,20 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1145.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1143.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1132.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -723,8 +687,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p27-itertools.permutations().py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state relative-caret-position="81">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1134.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="13" column="16" lean-forward="true" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1144.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1143.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="23" lean-forward="true" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1145.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1142.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
         </state>
       </provider>
     </entry>
