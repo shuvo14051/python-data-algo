@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8757dcd1-671a-4610-998a-da03dd15a092" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem solving/URI/URI-1001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem solving/URI/URI-1001.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="p28-Exceptions.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p28-Exceptions.py">
+      <file leaf-file-name="singlyLinkedList.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Udemy best seller course/Linked List/singlyLinkedList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="250">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
             </state>
           </provider>
         </entry>
@@ -38,9 +37,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/OOP/Geeks/polymorphism.py" />
-        <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p22-Find a string.py" />
-        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1048.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1049.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1050.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1075.py" />
@@ -89,6 +85,9 @@
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1142.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1001.py" />
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/p28-Exceptions.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI 1089.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1089-ad.py" />
+        <option value="$PROJECT_DIR$/Udemy best seller course/Linked List/singlyLinkedList.py" />
       </list>
     </option>
   </component>
@@ -122,8 +121,13 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Problem solving" type="462c0819:PsiDirectoryNode" />
-              <item name="Hacker Rank" type="462c0819:PsiDirectoryNode" />
+              <item name="Udemy best seller course" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Udemy best seller course" type="462c0819:PsiDirectoryNode" />
+              <item name="Linked List" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -151,8 +155,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.p28-Exceptions">
-    <configuration name="URI-1134" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.singlyLinkedList">
+    <configuration name="URI-1089-ad" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,7 +168,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1134.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1089-ad.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,24 +187,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1142.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="URI-1144" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem solving/URI" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1144.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,20 +228,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="singlyLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy best seller course/Linked List" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy best seller course/Linked List/singlyLinkedList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.URI-1144" />
       <item itemvalue="Python.URI-1145" />
-      <item itemvalue="Python.URI-1134" />
       <item itemvalue="Python.URI-1142" />
       <item itemvalue="Python.p28-Exceptions" />
+      <item itemvalue="Python.URI-1089-ad" />
+      <item itemvalue="Python.singlyLinkedList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.singlyLinkedList" />
+        <item itemvalue="Python.URI-1089-ad" />
         <item itemvalue="Python.p28-Exceptions" />
         <item itemvalue="Python.URI-1142" />
         <item itemvalue="Python.URI-1145" />
-        <item itemvalue="Python.URI-1134" />
-        <item itemvalue="Python.URI-1144" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +285,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33068362" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33068362" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -354,20 +358,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1080.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p22-Find a string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="31" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/p20-Text Wrap.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -708,6 +698,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1089-ad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy best seller course/Linked List/singlyLinkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
