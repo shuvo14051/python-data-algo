@@ -1,7 +1,7 @@
 x = int(input())
 z = int(input())
 count = 0
-if z <= x:
+while z<=x :
     z = int(input())
 
 sum = 0
