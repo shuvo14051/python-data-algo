@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8757dcd1-671a-4610-998a-da03dd15a092" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem solving/URI/URI-1150.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem solving/URI/URI-1150.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Udemy best seller course/Linked List/singlyLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy best seller course/Linked List/singlyLinkedList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Udemy best seller course/Stack Queue Deque/balanced_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy best seller course/Stack Queue Deque/balanced_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Udemy best seller course/Stack Queue Deque/stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy best seller course/Stack Queue Deque/stack.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,65 +16,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="URI-1155.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1155.py">
+      <file leaf-file-name="URI-1172.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1172.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="275">
+              <caret line="11" column="14" lean-forward="true" selection-end-line="11" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="URI-1156.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1156.py">
+      <file leaf-file-name="URI-1175.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1175.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            <state relative-caret-position="250">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="URI-1157.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1157.py">
+      <file leaf-file-name="URI-1174.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1174.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="14" lean-forward="true" selection-end-line="4" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="URI-1165.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1165.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="20" lean-forward="true" selection-end-line="12" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="URI-1164.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1164.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="33" lean-forward="true" selection-end-line="12" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="URI-1159.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1159.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="11" column="14" lean-forward="true" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="URI-1158.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1158.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="16" lean-forward="true" selection-end-line="19" />
+            <state relative-caret-position="25">
+              <caret line="1" column="18" selection-end-line="10" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -92,13 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1098.py" />
-        <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/ps03-Solve Me First.py" />
-        <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/ps04-Compare the Triplets.py" />
-        <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/ps05-A Very Big Sum.py" />
-        <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/ps06-Plus Minus.py" />
-        <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/ps07-Staircase.py" />
-        <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/ps08-Birthday Cake Candles.py" />
         <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/ps09-Mini-Max Sum.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1101.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1113.py" />
@@ -129,7 +88,6 @@
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1154.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1153.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1151.py" />
-        <option value="$PROJECT_DIR$/Udemy best seller course/Linked List/singlyLinkedList.py" />
         <option value="$PROJECT_DIR$/My Thought/numpy.py" />
         <option value="$PROJECT_DIR$/My Thought/numpy_geeks.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1145.py" />
@@ -143,6 +101,14 @@
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1164.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1159.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1158.py" />
+        <option value="$PROJECT_DIR$/Udemy best seller course/Linked List/singlyLinkedList.py" />
+        <option value="$PROJECT_DIR$/Udemy best seller course/Stack Queue Deque/stack.py" />
+        <option value="$PROJECT_DIR$/Udemy best seller course/Stack Queue Deque/balanced_check.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1160.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1172.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1173.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1175.py" />
+        <option value="$PROJECT_DIR$/Problem solving/URI/URI-1174.py" />
       </list>
     </option>
   </component>
@@ -206,8 +172,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.URI-1158">
-    <configuration name="URI-1157" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.URI-1174">
+    <configuration name="URI-1160" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,13 +185,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1157.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1160.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="URI-1158" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="URI-1172" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,13 +203,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1158.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1172.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="URI-1159" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="URI-1173" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,13 +221,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1159.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1173.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="URI-1164" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="URI-1174" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,13 +239,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1164.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1174.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="URI-1165" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="URI-1175" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,26 +257,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1165.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem solving/URI/URI-1175.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.URI-1157" />
-      <item itemvalue="Python.URI-1165" />
-      <item itemvalue="Python.URI-1164" />
-      <item itemvalue="Python.URI-1159" />
-      <item itemvalue="Python.URI-1158" />
+      <item itemvalue="Python.URI-1160" />
+      <item itemvalue="Python.URI-1172" />
+      <item itemvalue="Python.URI-1173" />
+      <item itemvalue="Python.URI-1175" />
+      <item itemvalue="Python.URI-1174" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.URI-1158" />
-        <item itemvalue="Python.URI-1159" />
-        <item itemvalue="Python.URI-1164" />
-        <item itemvalue="Python.URI-1165" />
-        <item itemvalue="Python.URI-1157" />
+        <item itemvalue="Python.URI-1174" />
+        <item itemvalue="Python.URI-1175" />
+        <item itemvalue="Python.URI-1173" />
+        <item itemvalue="Python.URI-1172" />
+        <item itemvalue="Python.URI-1160" />
       </list>
     </recent_temporary>
   </component>
@@ -331,16 +297,16 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21229868" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20644216" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33068362" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33068362" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990461" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990461" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -398,9 +364,19 @@
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Problem solving/URI/URI-1118.py</url>
+          <url />
           <line>2</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Udemy best seller course/Stack Queue Deque/balanced_check.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem solving/URI/URI-1160.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -410,52 +386,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="22" />
+      <option name="time" value="25" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/ps04-Compare the Triplets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/ps05-A Very Big Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/ps08-Birthday Cake Candles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/ps07-Staircase.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/ps06-Plus Minus.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/Hacker Rank/ps09-Mini-Max Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1113.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -659,13 +593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy best seller course/Linked List/singlyLinkedList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="82" column="22" lean-forward="true" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/My Thought/numpy_geeks.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -693,9 +620,6 @@
           <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI1155.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1118.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -728,42 +652,98 @@
     <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1156.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1157.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="14" lean-forward="true" selection-end-line="4" selection-end-column="16" />
+          <caret line="4" column="14" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1165.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="3" column="20" lean-forward="true" selection-end-line="12" selection-end-column="35" />
+          <caret line="3" column="20" selection-end-line="12" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1164.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="12" column="33" lean-forward="true" selection-end-line="12" selection-end-column="38" />
+          <caret line="12" column="33" selection-end-line="12" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1159.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="11" column="14" lean-forward="true" selection-end-line="18" />
+        <state relative-caret-position="275">
+          <caret line="11" column="14" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1158.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy best seller course/Linked List/singlyLinkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="7" column="16" lean-forward="true" selection-end-line="19" />
+          <caret line="87" column="31" lean-forward="true" selection-start-line="87" selection-start-column="31" selection-end-line="87" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy best seller course/Stack Queue Deque/stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy best seller course/Stack Queue Deque/balanced_check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="10" lean-forward="true" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1160.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1173.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1175.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1172.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="14" lean-forward="true" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1174.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="18" selection-end-line="10" selection-end-column="14" />
         </state>
       </provider>
     </entry>

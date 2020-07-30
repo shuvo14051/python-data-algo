@@ -53,6 +53,14 @@ class LinkedList:
                 lastNode = lastNode.next
 
             lastNode.next = newNode
+
+    def deleteEnd(self):
+        lastNode = self.head
+        while lastNode.next is not None:
+            previousNode = lastNode
+            lastNode = lastNode.next
+        previousNode.next = None
+
     def printList(self):
         if self.head is None:
             print("List is empty")
@@ -63,6 +71,8 @@ class LinkedList:
                 break
             print(currentNode.data)
             currentNode  = currentNode.next
+
+
 
 
 
@@ -78,6 +88,5 @@ linkedList = LinkedList()
 linkedList.insertEnd(firstNode)
 linkedList.insertEnd(secondNode)
 linkedList.insertAt(thirdNode, 1)
-linkedList.insertAt(fourthNode, -1)
-
+linkedList.deleteEnd()
 linkedList.printList()
