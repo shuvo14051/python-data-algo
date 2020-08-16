@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8757dcd1-671a-4610-998a-da03dd15a092" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy best seller course/Linked List/singlyLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy best seller course/Linked List/singlyLinkedList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy best seller course/Stack Queue Deque/balanced_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy best seller course/Stack Queue Deque/balanced_check.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy best seller course/Stack Queue Deque/stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy best seller course/Stack Queue Deque/stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/NymPy_Tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NumPy/NymPy_Tutorial.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,29 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="URI-1172.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1172.py">
+      <file leaf-file-name="hello.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NumPy/hello.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="14" lean-forward="true" selection-end-line="11" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="URI-1175.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1175.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="URI-1174.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1174.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="18" selection-end-line="10" selection-end-column="14" />
+            <state>
+              <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -58,7 +38,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Problem solving/Hacker Rank/ps09-Mini-Max Sum.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1101.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1113.py" />
         <option value="$PROJECT_DIR$/OOP/Geeks/self.py" />
@@ -109,10 +88,11 @@
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1173.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1175.py" />
         <option value="$PROJECT_DIR$/Problem solving/URI/URI-1174.py" />
+        <option value="$PROJECT_DIR$/NumPy/hello.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-48" />
     <option name="y" value="53" />
     <option name="width" value="1346" />
@@ -294,15 +274,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20644216" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20644216" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33068362" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33068362" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -390,20 +370,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1113.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1101.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/OOP/Udemy/overriding overloading.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -712,13 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1160.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20">
-          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1173.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -736,14 +695,35 @@
     <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1172.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="11" column="14" lean-forward="true" selection-end-line="11" selection-end-column="14" />
+          <caret line="11" column="14" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1174.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="18" selection-end-line="10" selection-end-column="14" />
+        <state relative-caret-position="225">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem solving/URI/URI-1160.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NumPy/NymPy_Tutorial.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NumPy/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
