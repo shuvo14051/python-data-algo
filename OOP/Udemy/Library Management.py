@@ -12,7 +12,7 @@ class Library:
         if requestedBook in self.availableBooks:
             print("You have now borrowed the book.")
             self.availableBooks.remove(requestedBook)
-        else:
+        else:   
             print("Sorry the book is not available.")
 
     def addBook(self, returnedBook):

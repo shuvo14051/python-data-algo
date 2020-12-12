@@ -5,11 +5,10 @@ while True:
     if n == 0:
         break
 
-    ar = list(map(int, input().split())) [:n]
+    ar = list(map(int, input().split()))[:n]
     maximum = max(ar)
     for i in ar:
         if i == maximum:
             peak += 1
 
-
-    print(peak*2)
+    print(peak * 2)
